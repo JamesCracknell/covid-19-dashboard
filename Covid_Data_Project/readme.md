@@ -26,7 +26,8 @@ pip install requests
 pip install flask
 ```
 For testing: 
-```pip install pytest
+```python
+pip install pytest
 ```
 
 

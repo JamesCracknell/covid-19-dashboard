@@ -9,7 +9,6 @@ Displays local and nation data: 7 day infection rates, national current hospital
 Also displays news articles (by defualt four at a time) that contain search terms 'Covid', 'Covid-19' or 'coronavirus'. These can be removed (pressing x) to load more and URLs can be followd to find out more.
 
 Users can schedule updates to the program, they can choose a time to update and if it updates news articles, data or both. They can also set it to repeat and name the update.
----
 
 ## Installation
 

@@ -17,12 +17,14 @@ Download the repo from github: https://github.com/JamesCracknell/covid-19-dashbo
 
 Requirements:
 python 3.9.7
+```python
 pip install uk_covid19
 pip install configparser
 pip install sched
 pip install logging
 pip install requests
 pip install flask
+```
 
     For testing: pip install pytest
 

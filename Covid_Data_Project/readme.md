@@ -25,8 +25,9 @@ pip install logging
 pip install requests
 pip install flask
 ```
-
-    For testing: pip install pytest
+For testing: 
+```pip install pytest
+```
 
 
 ## Usage
